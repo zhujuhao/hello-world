@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#006633",
+    "navigationBarTitleText": "TomatoPlus",
+    "navigationBarTextStyle":"white",
+    "backgroundColorBottom": "#006633"
+  }
+}
